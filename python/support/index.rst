@@ -31,11 +31,6 @@ See the `FAQ <http://ironpython.codeplex.com/wikipage?title=FAQ>`_
 for common questions about IronPython, like *When will Python support be added into Visual Studio*,
 and various .NET interop and compatibility questions.
       
-------------
-Project Info
-------------
-`2.6 Release Plan <http://ironpython.codeplex.com/wikipage?title=2.6%20Release%20Plan">`_
-
 ------------------
 Articles and Blogs
 ------------------

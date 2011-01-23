@@ -74,7 +74,7 @@ Samples
 Source Code
 -----------
 When all else fails, you can always look at the 
-`IronPython source code <http://ironpython.codeplex.com/SourceControl/ListDownloadableCommits.aspx>`_
+`IronPython source code <https://github.com/IronLanguages/main>`_
 
 
 --------------
