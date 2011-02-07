@@ -16,18 +16,22 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
+.. admonition:: January 10, 2011
+   :class: strip
+
+   `Dino Viehland <http://blogs.msdn.com/b/dinoviehland/>`_ is set to be involved in the 
+   `Python VMs <http://us.pycon.org/2011/schedule/sessions/14/>`_
+   panel discussion at PyCon this year. Be sure to check it out if you're going.
+
 .. admonition:: October 21, 2010
    :class: strip
 
+   `IronPython 2.6.2 Final <http://ironpython.codeplex.com/releases/view/41236>`_
+   was released, with a few minor bugfixes, supporting both .NET 2.0 SP1 and .NET 4.0 RTM.
+   
    `IronPython 2.7 Beta 1 <http://ironpython.codeplex.com/releases/view/48818>`_
-   was released.
-
-.. admonition:: October 21, 2010
-   :class: strip
-
-   `IronPython 2.6.2  <http://ironpython.codeplex.com/releases/view/41236>`_
-   was released, supporting both .NET 2.0 SP1 and .NET 4. This is a minor 
-   update which fixes the most egregious issues discovered since 2.6.1. 
+   was released for .NET 4, supporting Python 2.7 features and improving on 
+   Visual Studio 2010 support.
 
 .. admonition:: July 16, 2010
    :class: strip

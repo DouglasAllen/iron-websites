@@ -37,7 +37,7 @@ IronPython is an `open source project`_ freely available under the `Apache Licen
 
 `Download latest (zip)`_ | `Browse Online`_ | `Recent Check-ins`_
 
-`Instructions for accessing with GIT`_
+`Instructions for accessing with Git`_
 
 .. container:: divider
 
@@ -97,7 +97,7 @@ Mac OS & Linux desktop & server apps
 
    .. container:: download
 
-      `Latest Mono version (2.6.4)`_
+      `Latest Mono version (2.8.2)`_
 
 Linux browser apps
 ~~~~~~~~~~~~~~~~~~
@@ -108,7 +108,7 @@ Linux browser apps
 
    .. container:: download
 
-      `Latest Moonlight version (2.0)`_
+      `Moonlight version (2.0)`_
 
 
    .. note::
@@ -135,7 +135,7 @@ Linux browser apps
 .. _Download latest (zip): http://github.com/iron-languages/main
 .. _Browse Online: http://github.com/iron-languages/main
 .. _Recent Check-ins: http://github.com/iron-languages/main
-.. _Instructions for accessing with GIT: http://github.com/iron-languages/main
+.. _Instructions for accessing with Git: http://github.com/iron-languages/main
 .. _Latest .NET version (4.0): http://bit.ly/iron-dotnet40
 .. _4.0: http://bit.ly/iron-dotnet40
 .. _3.5 SP1: http://bit.ly/iron-dotnet35sp1
@@ -145,6 +145,6 @@ Linux browser apps
 .. _Latest Silverlight version (4.0): http://go.microsoft.com/fwlink/?linkid=150228
 .. _Learn more about {{language}} in the browser: ../browser/
 .. _Mono: http://www.mono-project.com
-.. _Latest Mono version (2.6.4): http://www.go-mono.com/mono-downloads/download.html
+.. _Latest Mono version (2.8.2): http://www.go-mono.com/mono-downloads/download.html
 .. _Moonlight: http://www.mono-project.com/Moonlight
-.. _Latest Moonlight version (2.0): http://go-mono.com/moonlight-beta
+.. _Moonlight version (2.0): http://go-mono.com/moonlight-beta
