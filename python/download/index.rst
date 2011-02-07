@@ -132,10 +132,10 @@ Linux browser apps
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
 .. _Download IronPython 2.6.2 Source Code: http://ironpython.codeplex.com/releases/view/41236#DownloadId=159516
 .. _Download IronPython 2.7 Beta 1 Source Code: http://ironpython.codeplex.com/releases/view/48818
-.. _Download latest (zip): http://github.com/iron-languages/main
-.. _Browse Online: http://github.com/iron-languages/main
-.. _Recent Check-ins: http://github.com/iron-languages/main
-.. _Instructions for accessing with Git: http://github.com/iron-languages/main
+.. _Download latest (zip): https://github.com/ironlanguages/main
+.. _Browse Online: https://github.com/ironlanguages/main
+.. _Recent Check-ins: https://github.com/ironlanguages/main
+.. _Instructions for accessing with Git: https://github.com/ironlanguages/main
 .. _Latest .NET version (4.0): http://bit.ly/iron-dotnet40
 .. _4.0: http://bit.ly/iron-dotnet40
 .. _3.5 SP1: http://bit.ly/iron-dotnet35sp1
