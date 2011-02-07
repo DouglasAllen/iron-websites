@@ -16,6 +16,13 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
+.. admonition:: February 6, 2011
+   :class: strip
+   
+   `IronPython 2.7 Beta 2 <http://ironpython.codeplex.com/releases/view/60193>`_
+   was released. Numerous bugs have been fixed and the zlib, gzip, and subprocess
+   are now supported.
+
 .. admonition:: January 10, 2011
    :class: strip
 
