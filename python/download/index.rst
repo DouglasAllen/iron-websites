@@ -16,12 +16,12 @@ which version to use, use `IronPython 2.6.2`_.
 --------------
 Latest version
 --------------
-The latest version of IronPython is `IronPython 2.7 Beta 2`_, which is
+The latest version of IronPython is `IronPython 2.7 Release Candidate 1`_, which is
 tracking compatibility with `Python 2.7`_.
 
 .. container:: download col
    
-   `Download IronPython 2.7 Beta 2`_
+   `Download IronPython 2.7 Release Candidate 1`_
 
 
 -----------
@@ -31,7 +31,7 @@ IronPython is an `open source project`_ freely available under the `Apache Licen
 
 .. container:: download col
    
-   `Download IronPython 2.7 Beta 2 Source Code`_
+   `Download IronPython 2.7 Release Candidate 1 Source Code`_
    
    `Download IronPython 2.6.2 Source Code`_
 
@@ -125,17 +125,17 @@ Linux browser apps
 .. _Python 2.7:       http://www.python.org/download/releases/2.7/
 .. _IronPython 2.0.3: http://ironpython.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=30416
 .. _IronPython 2.6.2:   http://ironpython.codeplex.com/releases/view/41236
-.. _IronPython 2.7 Beta 2:   http://ironpython.codeplex.com/releases/view/60193
-.. _Download IronPython 2.7 Beta 2: http://ironpython.codeplex.com/releases/view/60193#DownloadId=206031
+.. _IronPython 2.7 Release Candidate 1:   http://ironpython.codeplex.com/releases/view/61395
+.. _Download IronPython 2.7 Release Candidate 1: http://ironpython.codeplex.com/releases/view/61395#DownloadId=210407
 .. _All major Iron{{language}} releases: http://iron{{language_lower}}.codeplex.com/wikipage?title=SupportedReleaseList
 .. _open source project: http://iron{{language_lower}}.codeplex.com
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
 .. _Download IronPython 2.6.2 Source Code: http://ironpython.codeplex.com/releases/view/41236#DownloadId=159516
-.. _Download IronPython 2.7 Beta 2 Source Code: http://ironpython.codeplex.com/releases/view/60193
-.. _Download latest (zip): https://github.com/ironlanguages/main
+.. _Download IronPython 2.7 Release Candidate 1 Source Code: https://github.com/IronLanguages/main/zipball/ipy-2.7-rc1
+.. _Download latest (zip): https://github.com/IronLanguages/main/zipball/master
 .. _Browse Online: https://github.com/ironlanguages/main
-.. _Recent Check-ins: https://github.com/ironlanguages/main
-.. _Instructions for accessing with Git: https://github.com/ironlanguages/main
+.. _Recent Check-ins: https://github.com/IronLanguages/main/commits/master
+.. _Instructions for accessing with Git: https://github.com/IronLanguages/main/wiki/Getting-the-sources
 .. _Latest .NET version (4.0): http://bit.ly/iron-dotnet40
 .. _4.0: http://bit.ly/iron-dotnet40
 .. _3.5 SP1: http://bit.ly/iron-dotnet35sp1
