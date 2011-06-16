@@ -16,7 +16,19 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
-.. admonition:: February 21, 2011
+.. admonition:: March 12, 2011
+   :class: strip
+
+   `IronPython 2.7 Final <http://ironpython.codeplex.com/releases/view/54498>`_
+   was released.
+
+.. admonition:: March 6, 2011
+   :class: strip
+   
+   `IronPython 2.7 RC2 <http://ironpython.codeplex.com/releases/view/62114>`_
+   was released.
+
+.. admonition:: February, 21 2011
    :class: strip
    
    `IronPython 2.7 Release Candidate 1 <http://ironpython.codeplex.com/releases/view/61395>`_
@@ -52,6 +64,7 @@ Announcements
    `IronPython 2.7 Alpha 1 <http://ironpython.codeplex.com/releases/view/42434>`_
    was released, supporting Python 2.7 features and now being licensed under
    the `Apache License (Version 2) <http://ironpython.codeplex.com/license>`_.
+
 
 .. container:: download col
 
