@@ -18,10 +18,10 @@ Ask the mailing list
 --------------------
 If all else fails and you just want to talk to someone, or interested
 in tracking Iron{{language}} more closely, please 
-`subscribe <http://lists.ironpython.com/listinfo.cgi/users-ironpython.com>`_
+`subscribe <http://mail.python.org/mailman/listinfo/ironpython-users>`_
 to the Iron{{language}} users mailing list.
             
-Please search the `archives <http://lists.ironpython.com/pipermail/users-ironpython.com>`_
+Please search the `archives <http://mail.python.org/pipermail/ironpython-users/>`_
 to see if someone has had the same questions as you.
 
 ---
