@@ -2,6 +2,12 @@
 Announcements
 =============
 
+.. admonition:: June 18, 2011
+   :class: strip
+
+   `IronPython 2.7.1 Beta 1 <http://ironpython.codeplex.com/releases/view/68588>`_
+   was released.
+
 .. admonition:: March 12, 2011
    :class: strip
 

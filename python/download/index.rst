@@ -20,15 +20,14 @@ no longer being maintained.
 `All major Iron{{language}} releases`_
 
 
-.. --------------
-   Latest version
-   --------------
-   The latest version of IronPython is `IronPython 2.7`_, which is
-   tracking compatibility with `Python 2.7`_.
-   
-   .. container:: download col
-    
-      `Download IronPython 2.7`_
+--------------
+Latest version
+--------------
+The latest version of IronPython is `IronPython 2.7.1 Beta 1`_.
+
+.. container:: download col
+
+   `Download IronPython 2.7.1 Beta 1`_
 
 
 -----------
@@ -99,7 +98,7 @@ Mac OS & Linux desktop & server apps
 
    .. container:: download
 
-      `Latest Mono version (2.8.2)`_
+      `Mono`_
 
 Linux browser apps
 ~~~~~~~~~~~~~~~~~~
@@ -110,7 +109,7 @@ Linux browser apps
 
    .. container:: download
 
-      `Moonlight version (2.0)`_
+      `Moonlight`_
 
 
    .. note::
@@ -129,6 +128,8 @@ Linux browser apps
 .. _IronPython 2.6.2:   http://ironpython.codeplex.com/releases/view/41236
 .. _IronPython 2.7:   http://ironpython.codeplex.com/releases/view/54498
 .. _Download IronPython 2.7: http://ironpython.codeplex.com/releases/view/54498#DownloadId=216704
+.. _IronPython 2.7.1 Beta 1:   http://ironpython.codeplex.com/releases/view/68588
+.. _Download IronPython 2.7.1 Beta 1: http://ironpython.codeplex.com/releases/view/68588#DownloadId=250764
 .. _All major Iron{{language}} releases: http://iron{{language_lower}}.codeplex.com/wikipage?title=SupportedReleaseList
 .. _open source project: http://iron{{language_lower}}.codeplex.com
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
@@ -147,6 +148,6 @@ Linux browser apps
 .. _Latest Silverlight version (4.0): http://go.microsoft.com/fwlink/?linkid=150228
 .. _Learn more about {{language}} in the browser: ../browser/
 .. _Mono: http://www.mono-project.com
-.. _Latest Mono version (2.8.2): http://www.go-mono.com/mono-downloads/download.html
+.. _Latest Mono version: http://www.go-mono.com/mono-downloads/download.html
 .. _Moonlight: http://www.mono-project.com/Moonlight
-.. _Moonlight version (2.0): http://go-mono.com/moonlight-beta
+.. _Moonlight version: http://go-mono.com/moonlight/download.aspx
