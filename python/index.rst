@@ -16,11 +16,14 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
-.. admonition:: June 18, 2011
+.. admonition:: October 21, 2011
    :class: strip
 
-   `IronPython 2.7.1 Beta 1 <http://ironpython.codeplex.com/releases/view/68588>`_
+   `IronPython 2.7.1 <http://ironpython.codeplex.com/releases/view/62475>`_
    was released.
+   
+   IronPython 2.7.1 includes several new modules (unicodedata, csv, and ast) and
+   a large number of bug fixes.
 
 .. admonition:: March 12, 2011
    :class: strip
@@ -63,14 +66,6 @@ Announcements
    `IronPython 2.7 Beta 1 <http://ironpython.codeplex.com/releases/view/48818>`_
    was released for .NET 4, supporting Python 2.7 features and improving on 
    Visual Studio 2010 support.
-
-.. admonition:: July 16, 2010
-   :class: strip
-
-   `IronPython 2.7 Alpha 1 <http://ironpython.codeplex.com/releases/view/42434>`_
-   was released, supporting Python 2.7 features and now being licensed under
-   the `Apache License (Version 2) <http://ironpython.codeplex.com/license>`_.
-
 
 .. container:: download col
 

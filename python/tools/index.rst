@@ -1,7 +1,7 @@
 ==================================
-Python tools for Visual Studio
+Python Tools for Visual Studio
 ==================================
-`Python tools`_ provide a
+`Python Tools`_ provide a
 *Python code editor*, a 
 *file-based project system*, and an 
 *interactive Python interpreter*, 
@@ -17,8 +17,7 @@ all inside `Visual Studio 2010 <http://www.microsoft.com/visualstudio/>`_, and
 .. container::
    :class: download-link
 
-   **Download Python tools**
-   `Python tools (Beta 1)`_
+   `Download Python Tools`_
 
 
 .. container::
@@ -30,7 +29,5 @@ all inside `Visual Studio 2010 <http://www.microsoft.com/visualstudio/>`_, and
    - `Documentation <http://pytools.codeplex.com/documentation>`_
    - `Spread the word <http://twitter.com/home/?status=RT+Python+tools+for+Visual+Studio+http://pytools.codeplex.com>`_
 
-
-
-.. _Python tools:                   http://pytools.codeplex.com/
-.. _Python tools (Beta 1):          http://pytools.codeplex.com/releases/view/63597#DownloadId=225992
+.. _Python Tools:                   http://pytools.codeplex.com/
+.. _Download Python Tools:          http://pytools.codeplex.com/releases/view/69880

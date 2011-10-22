@@ -2,11 +2,14 @@
 Announcements
 =============
 
-.. admonition:: June 18, 2011
+.. admonition:: October 21, 2011
    :class: strip
 
-   `IronPython 2.7.1 Beta 1 <http://ironpython.codeplex.com/releases/view/68588>`_
+   `IronPython 2.7.1 <http://ironpython.codeplex.com/releases/view/62475>`_
    was released.
+   
+   IronPython 2.7.1 includes several new modules (unicode, csv, and ast) and
+   a large number of bug fixes.
 
 .. admonition:: March 12, 2011
    :class: strip
