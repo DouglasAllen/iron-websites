@@ -2,6 +2,14 @@
 Announcements
 =============
 
+.. admonition:: December 12, 2011
+   :class: strip
+   
+   The IronPython team would like to know more about how people are using IronPython
+   and how they would like to see it evolve over the next year.
+   
+   `Take the 2011 survey <http://bit.ly/ipy-2011-survey>`_!
+
 .. admonition:: October 21, 2011
    :class: strip
 
