@@ -19,6 +19,8 @@ Announcements
 .. admonition:: December 12, 2011
    :class: strip
    
+   **Update:** The survey is now closed. Thanks for all of your responses!
+   
    The IronPython team would like to know more about how people are using IronPython
    and how they would like to see it evolve over the next year.
    
