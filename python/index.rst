@@ -16,6 +16,14 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
+.. admonition:: February 26, 2012
+   :class: strip
+
+   `IronPython 2.7.2 Beta 1 <http://ironpython.codeplex.com/releases/view/81331>`_ is now available!
+
+   This includes the zipimport and sqlite3, the ability for pyc.py to generate
+   standalone executables, and numerous other bug fixes.
+
 .. admonition:: December 12, 2011
    :class: strip
    
