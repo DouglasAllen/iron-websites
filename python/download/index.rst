@@ -23,11 +23,11 @@ no longer being maintained.
 --------------
 Latest version
 --------------
-The latest version of IronPython is `IronPython 2.7.1`_.
+The latest version of IronPython is `IronPython 2.7.2 Beta 1`_.
 
 .. container:: download col
 
-   `Download IronPython 2.7.1`_
+   `Download IronPython 2.7.2 Beta 1`_
 
 
 -----------
@@ -119,8 +119,6 @@ Linux browser apps
       | Silverlight 2 APIs, or provide a fallback implementation for
       | Moonlight.
 
-
-
 .. _Python 2.5:       http://www.python.org/download/releases/2.5/
 .. _Python 2.6:       http://www.python.org/download/releases/2.6/
 .. _Python 2.7:       http://www.python.org/download/releases/2.7/
@@ -128,6 +126,8 @@ Linux browser apps
 .. _IronPython 2.6.2:   http://ironpython.codeplex.com/releases/view/41236
 .. _IronPython 2.7.1:   http://ironpython.codeplex.com/releases/view/62475
 .. _Download IronPython 2.7.1: http://ironpython.codeplex.com/releases/view/62475#DownloadId=295579
+.. _IronPython 2.7.2 Beta 1:   http://ironpython.codeplex.com/releases/view/81331
+.. _Download IronPython 2.7.2 Beta 1: http://ironpython.codeplex.com/releases/view/81331
 .. _All major Iron{{language}} releases: http://iron{{language_lower}}.codeplex.com/wikipage?title=SupportedReleaseList
 .. _open source project: http://iron{{language_lower}}.codeplex.com
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
