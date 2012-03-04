@@ -23,11 +23,11 @@ no longer being maintained.
 --------------
 Latest version
 --------------
-The latest version of IronPython is `IronPython 2.7.2 Beta 1`_.
+The latest version of IronPython is `IronPython 2.7.2 RC 1`_.
 
 .. container:: download col
 
-   `Download IronPython 2.7.2 Beta 1`_
+   `Download IronPython 2.7.2 RC 1`_
 
 
 -----------
@@ -78,7 +78,7 @@ Windows & Mac OS browser apps
 
    .. container:: download
 
-      `Latest Silverlight version (4.0)`_
+      `Latest Silverlight version (5.0)`_
 
    Silverlight enables you to use {{language}} to script HTML pages just as
    you would with JavaScript, and also enables advanced vector graphics
@@ -126,8 +126,8 @@ Linux browser apps
 .. _IronPython 2.6.2:   http://ironpython.codeplex.com/releases/view/41236
 .. _IronPython 2.7.1:   http://ironpython.codeplex.com/releases/view/62475
 .. _Download IronPython 2.7.1: http://ironpython.codeplex.com/releases/view/62475#DownloadId=295579
-.. _IronPython 2.7.2 Beta 1:   http://ironpython.codeplex.com/releases/view/81331
-.. _Download IronPython 2.7.2 Beta 1: http://ironpython.codeplex.com/releases/view/81331
+.. _IronPython 2.7.2 RC 1:   http://ironpython.codeplex.com/releases/view/81331
+.. _Download IronPython 2.7.2 RC 1: http://ironpython.codeplex.com/releases/view/81331
 .. _All major Iron{{language}} releases: http://iron{{language_lower}}.codeplex.com/wikipage?title=SupportedReleaseList
 .. _open source project: http://iron{{language_lower}}.codeplex.com
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
@@ -143,7 +143,7 @@ Linux browser apps
 .. _3.5: http://bit.ly/iron-dotnet35
 .. _3.0: http://bit.ly/iron-dotnet3
 .. _2.0 SP1: http://bit.ly/iron-dotnet20sp1
-.. _Latest Silverlight version (4.0): http://go.microsoft.com/fwlink/?linkid=150228
+.. _Latest Silverlight version (5.0): http://go.microsoft.com/fwlink/?linkid=150228
 .. _Learn more about {{language}} in the browser: ../browser/
 .. _Mono: http://www.mono-project.com
 .. _Latest Mono version: http://www.go-mono.com/mono-downloads/download.html

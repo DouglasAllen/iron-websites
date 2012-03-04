@@ -30,4 +30,4 @@ all inside `Visual Studio 2010 <http://www.microsoft.com/visualstudio/>`_, and
    - `Spread the word <http://twitter.com/home/?status=RT+Python+tools+for+Visual+Studio+http://pytools.codeplex.com>`_
 
 .. _Python Tools:                   http://pytools.codeplex.com/
-.. _Download Python Tools:          http://pytools.codeplex.com/releases/view/69880
+.. _Download Python Tools:          http://pytools.codeplex.com/releases/view/76091
