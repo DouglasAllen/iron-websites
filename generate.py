@@ -4,9 +4,10 @@ import codecs
 
 __thisfile__ = os.path.abspath(os.path.dirname(__file__))
 
-sys.path.append(os.path.join(__thisfile__, 'docutils'))
-sys.path.append(os.path.join(__thisfile__, 'docutils/extras'))
-sys.path.append(os.path.join(__thisfile__, 'jinja2'))
+# Always use the local versions, not an installed version
+sys.path.insert(0, os.path.join(__thisfile__, 'docutils'))
+sys.path.insert(0, os.path.join(__thisfile__, 'docutils/extras'))
+sys.path.insert(0, os.path.join(__thisfile__, 'jinja2'))
 
 from docutils.core import publish_parts
 from jinja2 import Template
@@ -106,9 +107,12 @@ def main_nav_href((name, link), active_page, path_to_root):
     #if active:
     #    print "(active)"
     
-    rel = normalize(os.path.normpath(os.path.join(path_to_root, link if link[0] != '/' else ('.%s' % link))))
-    rel = "%s/" % rel
-    #print "link '%s' => %s" % (name, rel)
+    if link.startswith('http://') or link.startswith('https://'):
+        rel = link
+    else:
+        rel = normalize(os.path.normpath(os.path.join(path_to_root, link if link[0] != '/' else ('.%s' % link))))
+        rel = "%s/" % rel
+    # print "link '%s' => %s" % (name, rel)
 
     t = Template("<a href='{{link}}' {% if active %} class='active' {% endif %}>{{name}}</a>")
     c = { 'link': rel, 'name': name, 'active': active }
@@ -150,6 +154,10 @@ def main(argv):
     global language
     global main_path
     main_path = os.path.join(__thisfile__, language_info[language]['language'].lower(), '')
+    
+    if language == 'ironpython':
+        global NAV
+        NAV += [("Blog", "http://blog.ironpython.net")]
 
     for rst_file in argv:
 
