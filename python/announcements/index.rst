@@ -2,13 +2,13 @@
 Announcements
 =============
 
-.. admonition:: March 4, 2012
+.. admonition:: March 11, 2012
    :class: strip
 
-   `IronPython 2.7.2 RC 1 <http://ironpython.codeplex.com/releases/view/81331>`_ is now available!
+   `IronPython 2.7.2 <http://ironpython.codeplex.com/releases/view/74478>`_ is now available!
 
-   This includes the zipimport and sqlite3, the ability for pyc.py to generate
-   standalone executables, preliminary support for Android and Windows Phone 7,
+   This release includes the zipimport and sqlite3 modules, the ability for pyc.py to
+   generate standalone executables, preliminary support for Android and Windows Phone 7,
    and numerous bug fixes.
    
    `Visit the blog <http://blog.ironpython.net/2012/03/whats-new-in-ironpython-272.html>`_ for more information.

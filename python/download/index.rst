@@ -6,12 +6,12 @@ Get IronPython
 ---------------
 Stable versions
 ---------------
-The latest stable version of IronPython is `IronPython 2.7.1`_, which is
+The latest stable version of IronPython is `IronPython 2.7.2`_, which is
 compatible with `Python 2.7`_.
 
 .. container:: download col
    
-   `Download IronPython 2.7.1`_
+   `Download IronPython 2.7.2`_
 
 If you need compatibility with `Python 2.5`_ or `Python 2.6`_, take a look at
 `IronPython 2.0.3`_ and `IronPython 2.6.2`_, respectively. However they are
@@ -23,11 +23,11 @@ no longer being maintained.
 --------------
 Latest version
 --------------
-The latest version of IronPython is `IronPython 2.7.2 RC 1`_.
+The latest version of IronPython is `IronPython 2.7.2`_.
 
 .. container:: download col
 
-   `Download IronPython 2.7.2 RC 1`_
+   `Download IronPython 2.7.2`_
 
 
 -----------
@@ -124,10 +124,8 @@ Linux browser apps
 .. _Python 2.7:       http://www.python.org/download/releases/2.7/
 .. _IronPython 2.0.3: http://ironpython.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=30416
 .. _IronPython 2.6.2:   http://ironpython.codeplex.com/releases/view/41236
-.. _IronPython 2.7.1:   http://ironpython.codeplex.com/releases/view/62475
-.. _Download IronPython 2.7.1: http://ironpython.codeplex.com/releases/view/62475#DownloadId=295579
-.. _IronPython 2.7.2 RC 1:   http://ironpython.codeplex.com/releases/view/81331
-.. _Download IronPython 2.7.2 RC 1: http://ironpython.codeplex.com/releases/view/81331
+.. _IronPython 2.7.2:   http://ironpython.codeplex.com/releases/view/74478
+.. _Download IronPython 2.7.2: http://ironpython.codeplex.com/releases/view/74478
 .. _All major Iron{{language}} releases: http://iron{{language_lower}}.codeplex.com/wikipage?title=SupportedReleaseList
 .. _open source project: http://iron{{language_lower}}.codeplex.com
 .. _Apache License (Version 2): http://ironpython.codeplex.com/license
