@@ -16,6 +16,13 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
+.. admonition:: March 12, 2012
+   :class: strip
+
+   **Important**: `IronPython 2.7.2.1 <http://ironpython.codeplex.com/releases/view/74478>`_ was released.
+   
+   This release fixes a major issue with method lookups. Upgrading is strongly recommended.
+
 .. admonition:: March 11, 2012
    :class: strip
 
