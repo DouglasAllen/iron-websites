@@ -71,11 +71,11 @@ d.each{|kvp| <span class="keyword">puts</span> kvp}""",
   'ironpython': {
     'language': 'Python',
     'language_website': 'http://python.org',
-    'stable_version': '2.7.2',
-    'stable_release_url': 'http://ironpython.codeplex.com/releases/view/62475#DownloadId=295579',
-    'stable_release_date': '2.7.2 released on 2012-03-11',
-    'stable_release_notes': 'http://ironpython.codeplex.com/releases/view/74478',
-    'stable_release_source': 'https://github.com/IronLanguages/main/zipball/ipy-2.7.2',
+    'stable_version': '2.7.3',
+    'stable_release_url': 'http://ironpython.codeplex.com/releases/view/81726',
+    'stable_release_date': '2.7.3 released on 2012-07-06',
+    'stable_release_notes': 'http://ironpython.codeplex.com/releases/view/81726',
+    'stable_release_source': 'https://github.com/IronLanguages/main/zipball/ipy-2.7.3',
     'code_snippet_html': """<img src="../images/ironpython-interactive.png" height="279" alt="IronPython Interactive in Visual Studio" />""",
     'old_code_snippet_html': """<span class="comment"># namespaces are modules</span>
 <span class="keyword">from</span> <span class="constant">System</span>.<span class="constant">Collections</span>.<span class="constant">Generic</span> import <span class="constant">Dictionary</span>

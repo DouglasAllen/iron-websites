@@ -2,6 +2,17 @@
 Announcements
 =============
 
+.. admonition:: July 6, 2012
+   :class: strip
+
+   `IronPython 2.7.3 <http://ironpython.codeplex.com/releases/view/81726>`_ is now available!
+
+   This release includes support for the bz2, winsound, and _bisect modules, major improvements
+   to the _ast module, improvements in Android support, improvements to pyc.py, and a
+   new console that supports history and tab completion on all platforms.
+   
+   See `what's new in 2.7.3 <http://blog.ironpython.net/2012/07/whats-new-in-ironpython-273.html>`_ for more information.
+
 .. admonition:: March 12, 2012
    :class: strip
 

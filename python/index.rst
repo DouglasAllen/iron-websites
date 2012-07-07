@@ -16,6 +16,17 @@ developers an amazing amount of functionality and power.
 Announcements
 -------------
 
+.. admonition:: July 6, 2012
+   :class: strip
+
+   `IronPython 2.7.3 <http://ironpython.codeplex.com/releases/view/81726>`_ is now available!
+
+   This release includes support for the bz2, winsound, and _bisect modules, major improvements
+   to the _ast module, improvements in Android support, improvements to pyc.py, and a
+   new console that supports history and tab completion on all platforms.
+   
+   See `what's new in 2.7.3 <http://blog.ironpython.net/2012/07/whats-new-in-ironpython-273.html>`_ for more information.
+
 .. admonition:: March 12, 2012
    :class: strip
 
@@ -58,42 +69,6 @@ Announcements
 
    `IronPython 2.7 Final <http://ironpython.codeplex.com/releases/view/54498>`_
    was released.
-
-.. admonition:: March 6, 2011
-   :class: strip
-   
-   `IronPython 2.7 RC2 <http://ironpython.codeplex.com/releases/view/62114>`_
-   was released.
-
-.. admonition:: February, 21 2011
-   :class: strip
-   
-   `IronPython 2.7 Release Candidate 1 <http://ironpython.codeplex.com/releases/view/61395>`_
-   was released. Over two dozen bugs have been fixed since Beta 2.
-
-.. admonition:: February 6, 2011
-   :class: strip
-   
-   `IronPython 2.7 Beta 2 <http://ironpython.codeplex.com/releases/view/60193>`_
-   was released. Numerous bugs have been fixed and the zlib, gzip, and subprocess
-   are now supported.
-
-.. admonition:: January 10, 2011
-   :class: strip
-
-   `Dino Viehland <http://blogs.msdn.com/b/dinoviehland/>`_ is set to be involved in the 
-   `Python VMs <http://us.pycon.org/2011/schedule/sessions/14/>`_
-   panel discussion at PyCon this year. Be sure to check it out if you're going.
-
-.. admonition:: October 21, 2010
-   :class: strip
-
-   `IronPython 2.6.2 Final <http://ironpython.codeplex.com/releases/view/41236>`_
-   was released, with a few minor bugfixes, supporting both .NET 2.0 SP1 and .NET 4.0 RTM.
-   
-   `IronPython 2.7 Beta 1 <http://ironpython.codeplex.com/releases/view/48818>`_
-   was released for .NET 4, supporting Python 2.7 features and improving on 
-   Visual Studio 2010 support.
 
 .. container:: download col
 
