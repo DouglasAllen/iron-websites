@@ -83,7 +83,6 @@ class Deploy
   end
 
   def deploy
-    clean
     @sites.each{|s| s.deploy}
   end
 end

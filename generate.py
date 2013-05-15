@@ -19,7 +19,6 @@ NAV = [
     ("Overview", '/'),
     ("Download", "/download/"),
     ("Tools", "/tools/"),
-    ("Browser", "/browser/"),
     ("Documentation", "/documentation/"),
     ("Support", "/support/"),
 ]
@@ -29,10 +28,6 @@ STYLES = {
     'download/index.html': 'sub columns',
     'support/index.html': 'sub columns',
     'tools/index.html': 'sub larger tools',
-    'browser/index.html': 'sub larger',
-    'browser/gettingstarted.html': 'sub',
-    'browser/download.html': 'sub',
-    'browser/examples.html': 'sub',
     'documentation/index.html': 'sub columns',
 }
 
@@ -240,12 +235,6 @@ files = [
     'announcements/index',
     'download/index',
     'tools/index',
-    'browser/index',
-    'browser/gettingstarted',
-    'browser/download',
-    'browser/examples',
-    'browser/docs',
-    'browser/spec.v2',
     'documentation/index',
     'support/index',
 ]
