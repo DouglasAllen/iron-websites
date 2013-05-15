@@ -1,0 +1,3 @@
+[submodule "deploy/IronPythonNet"]
+	path = deploy/IronPythonNet
+	url = git@github.com:IronLanguages/ironpython.net.git
